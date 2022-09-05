@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮ANUHAS MD BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮https://api.whatsapp.com/send?phone=+94764706922
+//▮WHATSAPP US : +94 76 470 6922
+//▮WHATSAPP GROUP: https://chat.whatsapp.com/Cc4HWi0Y4zT3sNxHfAwszU
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,8 +17,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS FOR CHOOSING ANUWA
+//┃THANKS TO All
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
-global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
+global.owner = ['94764706922','']
+global.premium = ['94764706922','94764706922']
+global.botname = 'ANUWA MD BOT'
+global.ownername = 'ANUWA'
+global.group1 = 'https://chat.whatsapp.com/Cc4HWi0Y4zT3sNxHfAwszU'
+global.group2 = 'https://chat.whatsapp.com/Cc4HWi0Y4zT3sNxHfAwszU'
+global.packname = 'ANUWA MD BOT'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'SHEWON'
+global.author = 'ANUWA'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://telegra.ph/file/1d1666e0f11a7a0c2f3f4.mp4' }
-global.vid = { url: 'https://telegra.ph/file/1d1666e0f11a7a0c2f3f4.mp4' }
+global.visoka = { url: 'https://i.ibb.co/PQxJ40y/null-20220820-WA0001.jpg' }
+global.vid = { url: 'https://i.ibb.co/PQxJ40y/null-20220820-WA0001.jpg/' }
 
 //—————「 Set Random Image Menu 」—————//
 
