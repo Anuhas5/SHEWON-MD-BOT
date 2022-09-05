@@ -18,7 +18,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING ANUWA-BOT
-//┃THANKS TO Athanx to all
+//┃THANKS TO ALL
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 require('./config')
