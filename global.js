@@ -1,16 +1,16 @@
 //global
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮ANUHAS MD BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮https://api.whatsapp.com/send?phone=+94764706922
+//▮WHATSAPP US : +94 76 470 6922
+//▮WHATSAPO GROUP: https://chat.whatsapp.com/Cc4HWi0Y4zT3sNxHfAwszU
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -18,7 +18,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS FOR CHOOSING ANUHAS-BOT
+//┃THANKS TO ALL
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
